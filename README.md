@@ -1,2 +1,2 @@
-# iot-projects
-A Collection of Simple IoT Projects
+# Arduino-ESP Projects
+A Collection of Simple Arduino and ESP Projects
